@@ -1,0 +1,10 @@
+
+
+Card-Jitsu is a 2 player card game.
+There are three elements: Fire, Snow, and Water.
+Each card contains one of these elements and a number 1-12.
+Fire beats Snow, Snow beats Water, and Water beats Fire.
+
+When both players select the same element, the card with the highest number will win.
+
+

@@ -23,9 +23,9 @@ int main(int argc, char** argv) {
     
     //Declare Variables
     int input;
-    char letter;
+    char let1='*';
     //Initialize or input i.e. set variable values
-    cin>>input>>letter;
+    cin>>input;//>>letter;
     //Map inputs -> outputs
     
     //Display the outputs
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
     }
     for (int i=0; i<input; i++){
         for (int j=1; j<=input; j++){
-            cout<<letter;
+            cout<<input<<let1;
         }
         if(i<input-1){
             cout<<endl;
